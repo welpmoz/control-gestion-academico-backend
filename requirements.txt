@@ -1,0 +1,7 @@
+django
+djangorestframework
+psycopg2
+pandas
+openpyxl
+SQLAlchemy
+django-cors-headers
